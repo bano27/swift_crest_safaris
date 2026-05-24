@@ -11,9 +11,16 @@
     "build": "cd frontend && npm run build"
   },
   "devDependencies": {
-    "concurrently": "^8.2.2"
+    "concurrently": "^8.2.2",
+    "typescript": "^6.0.3"
   },
-  "keywords": ["safari", "kenya", "travel", "maasai-mara", "luxury"],
+  "keywords": [
+    "safari",
+    "kenya",
+    "travel",
+    "maasai-mara",
+    "luxury"
+  ],
   "author": "Swift Crest Safaris",
   "license": "MIT"
 }
